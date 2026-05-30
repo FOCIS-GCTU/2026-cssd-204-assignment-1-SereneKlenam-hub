@@ -10,23 +10,22 @@
 # On my honor, Serene Klenam Mensah, this programming assignment is my own work
 # and I have not provided this code to any other student.
  
-def main():
- 
-  pass #code goes here
-   
+ def main():
+    pass #code goes here
+
     print()
     print("...SKM")
     print()
-    print("....SSSSSSSSSS.........KK........KK........MM........MM.....")
-    print("...SS..................KK......KK..........MMM......MMM.....")
-    print("...SS..................KK....KK............MMMM....MMMM.....")
-    print("...SS..................KK..KK..............MM.MM..MM.MM.....")
-    print("....SSSSSSSSSS.........KKKKKKKK............MM..MMMM..MM.....")
-    print(".............SS........KKKKKKKK............MM..MMMM..MM.....")
-    print(".............SS........KK..KK..............MM........MM.....")
-    print(".............SS........KK....KK............MM........MM.....")
-    print(".............SS...**...KK......KK.....**...MM........MM...**")
-    print("....SSSSSSSSSS....**...KK........KK...**...MM........MM...**")
+    print("....SSSSSSSSSS.........KK........KK........MM........MM..")
+    print("...SS..................KK......KK..........MMM......MMM..")
+    print("...SS..................KK....KK............MMMM....MMMM..")
+    print("...SS..................KK..KK..............MM.MM..MM.MM..")
+    print("....SSSSSSSSSS.........KKKK................MM..MMMM..MM..")
+    print(".............SS........KKKK................MM..MMMM..MM..")
+    print(".............SS........KK..KK..............MM........MM..")
+    print(".............SS........KK....KK............MM........MM..")
+    print(".............SS...**...KK......KK.....**...MM........MM**")
+    print("....SSSSSSSSSS....**...KK........KK...**...MM........MM**")
     print()
-
+    
 main()
