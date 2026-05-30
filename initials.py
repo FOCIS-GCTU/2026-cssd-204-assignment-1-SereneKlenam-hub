@@ -12,7 +12,7 @@
  
 def main():
  
-  pass #code goes here 
+  pass #code goes here
    
     print()
     print("...SKM")
