@@ -10,7 +10,6 @@
 # On my honor, Serene Klenam Mensah, this programming assignment is my own work
 # and I have not provided this code to any other student.
  
- 
 def main():
    
    print()
