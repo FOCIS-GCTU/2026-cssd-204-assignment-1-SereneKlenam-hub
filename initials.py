@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Print out my initials in stylized large block letters(SKM).
-# Assignment Number: 2
+# Assignment Number: 1
 #
 # Name: Serene Klenam Mensah
 # STUDENT ID: 2425400997
